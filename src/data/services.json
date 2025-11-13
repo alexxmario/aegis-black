@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "personal-bodyguard",
+    "title": "Personal Bodyguard Escort",
+    "summary": "Close protection for individuals and families with discreet advance work and route planning.",
+    "bullets": [
+      "Licensed close protection officers",
+      "Low-profile or overt presence",
+      "Residential & travel protection",
+      "Real-time threat monitoring"
+    ],
+    "image": "/images/services/bodyguard.jpg"
+  },
+  {
+    "slug": "executive-protection",
+    "title": "Executive Protection",
+    "summary": "Corporate and diplomatic security with liaison to local authorities and venues.",
+    "bullets": [
+      "Protective intelligence",
+      "Advance site surveys",
+      "Red-team scenarios",
+      "Secure movement protocols"
+    ],
+    "image": "/images/services/executive.jpg"
+  },
+  {
+    "slug": "secure-transportation",
+    "title": "Secure Transportation",
+    "summary": "Armored and luxury vehicles, professional defensive drivers, real-time tracking.",
+    "bullets": [
+      "Armored options (B4–B7)",
+      "GPS tracking & geofencing",
+      "Convoy coordination",
+      "Airport & venue transfers"
+    ],
+    "image": "/images/services/transport.jpg"
+  },
+  {
+    "slug": "event-security",
+    "title": "Event Security",
+    "summary": "High-profile event planning, access control, backstage and perimeter coverage.",
+    "bullets": [
+      "Risk assessments",
+      "Credentialing & access control",
+      "Emergency action plans",
+      "Crowd & media management"
+    ],
+    "image": "/images/services/event.jpg"
+  },
+  {
+    "slug": "international-protection",
+    "title": "International Protection",
+    "summary": "Global coverage with vetted partners, travel advisories, and evacuation plans.",
+    "bullets": [
+      "Local fixers & liaisons",
+      "Multi-language operatives",
+      "Secure communications",
+      "Embassy & consulate coordination"
+    ],
+    "image": "/images/services/international.jpg"
+  }
+]

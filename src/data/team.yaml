@@ -1,0 +1,10 @@
+- call_sign: "Atlas"
+  role: "Close Protection Lead"
+  credentials: ["SIA CP", "TCCC", "EVOC"]
+  years_experience: 12
+  bio: "Former military with diplomatic detail background."
+- call_sign: "Valkyrie"
+  role: "Protective Intelligence Analyst"
+  credentials: ["OSINT", "CPTED"]
+  years_experience: 9
+  bio: "Leads advance work and route assessments across EMEA."

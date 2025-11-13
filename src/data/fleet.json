@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "escalade-armored",
+    "type": "SUV",
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "year": 2024,
+    "armoring": "B6",
+    "capacity": 6,
+    "amenities": ["Run-flat tires", "EMT kit", "Encrypted comms", "Rear privacy"],
+    "images": ["/images/fleet/escalade-1.jpg", "/images/fleet/escalade-2.jpg"],
+    "specs": { "powertrain": "6.2L V8", "drive": "AWD", "range_km": 620 }
+  },
+  {
+    "slug": "sclass",
+    "type": "Sedan",
+    "make": "Mercedes-Benz",
+    "model": "S 580 4MATIC",
+    "year": 2024,
+    "armoring": "B4 (opt B6)",
+    "capacity": 3,
+    "amenities": ["Massage seats", "Rear screens", "Soft close", "Ambient lighting"],
+    "images": ["/images/fleet/sclass-1.jpg"],
+    "specs": { "powertrain": "V8 mild-hybrid", "drive": "AWD", "range_km": 700 }
+  },
+  {
+    "slug": "rangerover",
+    "type": "SUV",
+    "make": "Land Rover",
+    "model": "Range Rover LWB",
+    "year": 2025,
+    "armoring": "B6",
+    "capacity": 4,
+    "amenities": ["Executive rear seats", "Air suspension", "Emergency escape system"],
+    "images": ["/images/fleet/rangerover-1.jpg"],
+    "specs": { "powertrain": "P530", "drive": "AWD", "range_km": 650 }
+  },
+  {
+    "slug": "sprinter",
+    "type": "Van",
+    "make": "Mercedes-Benz",
+    "model": "Sprinter VIP",
+    "year": 2023,
+    "armoring": "B4",
+    "capacity": 10,
+    "amenities": ["Conference seating", "Work desk", "Mini bar", "Privacy glass"],
+    "images": ["/images/fleet/sprinter-1.jpg"],
+    "specs": { "powertrain": "3.0L V6", "drive": "RWD", "range_km": 750 }
+  },
+  {
+    "slug": "armored-seven",
+    "type": "Sedan",
+    "make": "BMW",
+    "model": "7 Series Protection",
+    "year": 2025,
+    "armoring": "B7",
+    "capacity": 3,
+    "amenities": ["Ballistic glass", "Fire suppression", "Run-flat tires"],
+    "images": ["/images/fleet/bmw7p-1.jpg"],
+    "specs": { "powertrain": "V8", "drive": "AWD", "range_km": 640 }
+  }
+]
